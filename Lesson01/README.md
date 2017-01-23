@@ -34,3 +34,7 @@ https://cn.vuejs.org/v2/guide/comparison.html
 * 原代码共享
  - Git@OSC  
    http://git.oschina.net/komavideo/LearnVueJS
+
+## 小马视频频道（优酷）
+
+http://i.youku.com/komavideo
