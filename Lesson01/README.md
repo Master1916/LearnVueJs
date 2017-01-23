@@ -20,7 +20,7 @@ https://cn.vuejs.org/v2/guide/comparison.html
 ## 技术前提
 * HTML/CSS
 * Javascript
-* Node.js(推荐)
+* Node.js(极力推荐)
 
 ## 开发工具
 * 记事本等文本编辑器
