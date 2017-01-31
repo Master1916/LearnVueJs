@@ -15,6 +15,7 @@
     <h1>表单控件绑定</h1>
     <input type="text" v-model="message" placeholder="来呀，编辑我吧！">
     <p>Message is: {{ message }}</p>
+    <textarea v-model="message" placeholder="加入多行编辑" rows="8" cols="34"></textarea>
 </div>
 <script>
     var myApp = new Vue({
