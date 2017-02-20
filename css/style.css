@@ -10,3 +10,7 @@ body {
     font-weight: bolder;
     font-size: 64px;
 }
+
+.border1 {
+    border: 1px solid gray;
+}
