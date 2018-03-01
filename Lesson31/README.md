@@ -37,10 +37,10 @@ slot是父组件与子组件的通讯方式，可以将父组件的内容显示�
 </script>
 ~~~
 
-## 课程文件
+## 源文件
 
-* https://git.oschina.net/komavideo/LearnVueJS
+* https://gitee.com/komavideo/LearnVueJS
 
-## 小马视频频道（优酷）
+## 小马视频频道
 
-http://i.youku.com/komavideo
+http://komavideo.com

@@ -39,8 +39,8 @@ var myApp = new Vue({
 
 ## 源文件
 
-* https://git.oschina.net/komavideo/LearnVueJS
+* https://gitee.com/komavideo/LearnVueJS
 
-## 小马视频频道（优酷）
+## 小马视频频道
 
-http://i.youku.com/komavideo
+http://komavideo.com
