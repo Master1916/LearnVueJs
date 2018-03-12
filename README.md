@@ -45,3 +45,8 @@ Vue.js学习
 http://komavideo.com/vuejs/index.html
 
 **推荐您使用Youtube观看高清视频**
+
+### 2018/03/12
+
+文件夹整理，LearnVueJS2课程准备中。
+
