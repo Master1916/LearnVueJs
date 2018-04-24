@@ -46,7 +46,9 @@ http://komavideo.com/vuejs/index.html
 
 **推荐您使用Youtube观看高清视频**
 
-### 2018/03/12
+### 2018/04/24
 
-文件夹整理，LearnVueJS2课程准备中。
+**Vue.js进阶学习课程公开中**
+
+https://gitee.com/komavideo/LearnVueJS2
 
