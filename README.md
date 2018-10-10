@@ -52,3 +52,12 @@ http://komavideo.com/vuejs/index.html
 
 https://gitee.com/komavideo/LearnVueJS2
 
+### 2018/10/10
+
+**Vue.js 3.0 发布计划**
+
+https://www.bilibili.com/video/av33031932
+
+**Per.js - Vue.js的一个新对手**
+
+https://www.bilibili.com/video/av33501775
